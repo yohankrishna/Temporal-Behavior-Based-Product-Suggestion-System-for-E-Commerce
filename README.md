@@ -1,6 +1,7 @@
 # Temporal-Behavior-Based-Product-Suggestion-System-for-E-Commerce
 
 **📌 Overview**
+
 This project implements a Neural Hawkes Transformer for E-Commerce recommendation. Unlike traditional recommender systems that only predict what a user will buy next, this system utilizes a multi-task learning framework to simultaneously predict:
 
 **1. Next Product:** Which item the user will interact with.
